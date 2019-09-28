@@ -33,7 +33,6 @@
                 image-rendering: crisp-edges;
                 image-rendering: -webkit-optimize-contrast;
                 image-rendering: optimize-contrast;
-                image-rendering: pixelated;
                 -ms-interpolation-mode: bicubic;
             }
 
@@ -134,7 +133,7 @@
     if (progress === 1 && !gameInstance.removeTimeout) {
       gameInstance.removeTimeout = setTimeout(function() {
           loader.style.display = "none";
-      }, 2000);
+      });
     }
   }
   </script>
