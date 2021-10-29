@@ -1,0 +1,94 @@
+{
+  "gameProgressions": [
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22692
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": false,
+      "maxMissingPlatforms": 1,
+      "minMissingPlatforms": 0
+    },
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22720
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": true,
+      "maxMissingPlatforms": 1,
+      "minMissingPlatforms": 0
+    },
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22752
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": false,
+      "maxMissingPlatforms": 1,
+      "minMissingPlatforms": 0
+    },
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22726
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": false,
+      "maxMissingPlatforms": 2,
+      "minMissingPlatforms": 0
+    },
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22614
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": true,
+      "maxMissingPlatforms": 2,
+      "minMissingPlatforms": 0
+    },
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22552
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": false,
+      "maxMissingPlatforms": 2,
+      "minMissingPlatforms": 0
+    },
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22764
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": true,
+      "maxMissingPlatforms": 3,
+      "minMissingPlatforms": 1
+    },
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22742
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": false,
+      "maxMissingPlatforms": 3,
+      "minMissingPlatforms": 1
+    },
+    {
+      "timeDuration": 20,
+      "platformMaterial": {
+        "instanceID": 22630
+      },
+      "moveSpeedBonus": 0.07999999821186066,
+      "isDark": false,
+      "maxMissingPlatforms": 3,
+      "minMissingPlatforms": 2
+    }
+  ]
+}
